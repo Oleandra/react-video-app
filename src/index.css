@@ -1,0 +1,36 @@
+.Media {
+  cursor: pointer;
+  margin-right: 15px;
+  display:inline-block;
+  width: 240px;
+  vertical-align: top;
+  
+}
+
+.Playlist {
+  overflow-x: auto;
+  white-space:nowrap;
+  overflow-y: hidden;
+  padding-bottom: 40px;
+  
+}
+
+.titleBox{
+font-family:Arial;
+color: red;
+text-align:center;
+}
+
+
+
+.Media-title {
+  font-family: Arial;
+  color: #cccccc;
+  margin-right:20px;
+  
+}
+
+.Media-author{
+  color:grey;
+  
+}

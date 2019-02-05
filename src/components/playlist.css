@@ -1,0 +1,15 @@
+.Playlist {
+  overflow-x: auto;
+  white-space:nowrap;
+  overflow-y: hidden;
+  padding-bottom: 20px;
+  margin-right:30px;
+}
+
+.ButtonBox {
+  border: 1px  solid red;
+  width:32px;
+  height:32px;
+  margin-bottom:20px;
+  border-radius:5px;
+}

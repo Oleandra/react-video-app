@@ -1,0 +1,22 @@
+.Media {
+  cursor: pointer;
+  margin-right:20px;
+  display:inline-block;
+  width: 260px;
+  vertical-align: top;
+  font-size:12px;
+}
+
+
+
+.Media-title {
+  font-family: Arial;
+  color: #cccccc;
+  margin-right:20px;
+  
+}
+
+.Media-author{
+  color:grey;
+  
+}
